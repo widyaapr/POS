@@ -1,5 +1,1 @@
-# POS
-# POS
-# Projek-Buat-KP
-# Projek-KP
-# Hello
+POS dan Sistem Informasi Manajemen Kas
